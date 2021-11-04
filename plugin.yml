@@ -1,0 +1,9 @@
+name: MenuSkillVIP
+version: 0.0.1 #Beta
+main: KhanggTrann\Main
+author: KhanggTrann
+api: [3.0.0]
+
+commands:
+     smenui:
+      description: Menu Chức Năng Đặc Biệt VIP 1
